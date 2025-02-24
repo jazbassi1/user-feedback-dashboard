@@ -1,23 +1,22 @@
-# user-feedback-dashboard
-Interactive dashboard for analyzing user feedback and feature requests using Python, SQLAlchemy for DV, plotly and pandas
-
-# User Feedback Analysis Dashboard
+# User Feedback Analytics Dashboard
 
 ![Dashboard Preview]()
 
-Interactive dashboard for analyzing user feedback, built with Python Dash and Plotly.
+Interactive dashboard for analyzing user feedback and feature requests.
 
 ## Features
-- Feedback categorization (Bugs/Feature Requests/UI)
-- Sentiment trend analysis
+- Real-time feedback categorization
+- Sentiment analysis over time
 - Priority/status tracking
+- Source distribution analysis
 - Interactive filters (date range, categories)
-- Real-time data updates
+- Responsive design
 
 ## Technologies
-- **Python**: Dash, Plotly, Pandas
-- **Data**: CSV/SQL integration ready
-- **Deployment**: Heroku/Ready-to-deploy
+- **Frontend**: Dash, Plotly
+- **Backend**: Python, Pandas
+- **Styling**: CSS
+- **Deployment**: Heroku-ready
 
 ## Installation
 ```bash
