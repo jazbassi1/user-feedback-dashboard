@@ -3,7 +3,7 @@ Interactive dashboard for analyzing user feedback and feature requests using Pyt
 
 # User Feedback Analysis Dashboard
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview]()
 
 Interactive dashboard for analyzing user feedback, built with Python Dash and Plotly.
 
